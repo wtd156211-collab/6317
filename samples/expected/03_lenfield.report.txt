@@ -1,0 +1,10 @@
+status recovered
+stream-bytes 5700
+records 9
+recoveries 2
+skipped-bytes 120
+tail-start -
+tail-bytes 0
+tail-cause -
+recovery 1 at 304 bad 248 why crc delta +56 skip 76 candidates 2
+recovery 2 at 552 bad 4616 why crc delta -4064 skip 44 candidates 1

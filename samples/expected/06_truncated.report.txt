@@ -1,0 +1,9 @@
+status lost
+stream-bytes 396
+records 4
+recoveries 0
+skipped-bytes 108
+tail-start 288
+tail-bytes 108
+tail-cause short
+giveup bad 556 why trunc window 288 396 candidates 1

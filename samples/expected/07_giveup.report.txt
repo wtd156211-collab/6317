@@ -1,0 +1,9 @@
+status lost
+stream-bytes 70472
+records 3
+recoveries 0
+skipped-bytes 70244
+tail-start 228
+tail-bytes 70244
+tail-cause damaged
+giveup bad 228 why head window 228 65764 candidates 1

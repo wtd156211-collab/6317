@@ -1,0 +1,8 @@
+status ok
+stream-bytes 1513
+records 8
+recoveries 0
+skipped-bytes 0
+tail-start -
+tail-bytes 0
+tail-cause -
